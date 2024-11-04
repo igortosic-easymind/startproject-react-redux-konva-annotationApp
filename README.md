@@ -18,10 +18,13 @@ The application currently supports:
 Try out EasyNotes Canvas: [Live Demo](https://startproject-easynotes.vercel.app)
 
 Demo credentials:
-- Username: `demo`
-- Password: `demo123`
+- Username: `testuser`
+- Password: `demo1234`
 
-Backend repository: [EasyNotes Canvas API](https://github.com/yourusername/easynotes-canvas-api)
+Backend repository: [EasyNotes Canvas API](https://github.com/igortosic-easymind/startproject-django-ninja-annotationApp)
+
+### Note
+The backend project is hosted on a free instance web service on Render. As a result, it may be idle sometimes, causing the initial load to be slow. However, once the application is loaded, it should work normally.
 
 ## Roadmap
 
